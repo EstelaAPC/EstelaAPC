@@ -6,7 +6,7 @@ Sou formada em **Engenharia de Computação** e tenho experiência profissional 
 
 Tenho experiência com **Back-End, Front-End, APIs REST, Design Systems e agentes de IA**, além de trabalhar com tecnologias como C#, .NET, Python, JavaScript, TypeScript e Angular.
 
-Atualmente, meu foco está em continuar evoluindo em **Desenvolvimento, Inteligência Artificial, Cloud e Dados**.
+Atualmente, meu foco está em continuar evoluindo em **m Desenvolvimento de Software e Inteligência Artificial, explorando diferentes possibilidades entre Front-End, Back-End e integração de soluções**.
 
 ---
 
