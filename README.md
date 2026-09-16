@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=6C5CE7&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Seja+bem-vindo(a)+ao+meu+GitHub!+%E2%9C%A8;%F0%9F%91%A9%F0%9F%8F%BB%F0%9F%92%BB+Ol%C3%A1%2C+eu+sou+a+Estela!;%F0%9F%9A%80+Desenvolvimento+%7C+IA+%7C+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=6C5CE7&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Seja+bem-vindo(a)+ao+meu+GitHub!+%E2%9C%A8;%F0%9F%9A%80+Desenvolvimento+%7C+IA+%7C+Tecnologia" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Olá, eu sou a Estela Argolo! 👩🏻‍💻</h1>
