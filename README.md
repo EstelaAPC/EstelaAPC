@@ -162,10 +162,11 @@ A solução organiza o acompanhamento das entregas e auxilia na gestão do proce
 ## 📫 Entre em contato
 
 <p>
-  <a href="SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/estela-argolo-paraiso-carvalho-788097130/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
