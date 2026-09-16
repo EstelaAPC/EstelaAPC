@@ -1,3 +1,15 @@
+# Olá, eu sou a Estela Argolo! 👩🏻‍💻
+
+### Engenheira de Computação | Desenvolvimento de Software | Inteligência Artificial
+
+Sou formada em **Engenharia de Computação** e tenho experiência profissional em desenvolvimento de software, APIs, aplicações web, integração de sistemas, Design Systems e Inteligência Artificial.
+
+Tenho experiência com diferentes frentes de desenvolvimento, incluindo **Back-End, Front-End, APIs REST, aplicações web, bancos de dados e soluções baseadas em IA**.
+
+Atualmente, meu foco está em continuar evoluindo em **Desenvolvimento de Software e Inteligência Artificial**, ampliando minha experiência em diferentes frentes de tecnologia.
+
+---
+
 ## 🚀 Tecnologias
 
 ### 💻 Desenvolvimento & APIs
@@ -40,37 +52,4 @@
   <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLMs-6E40C9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge"/>
-</p>
-
-**Agentes de IA • MCP (Model Context Protocol) • LLMs • Automação • Integração de IA**
-
-### 🗄️ Bancos de Dados
-
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-**SQL • Modelagem de Dados • Consultas • Bancos Relacionais e Não Relacionais**
-
-### 📊 Dados & BI
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python%20Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-**Python • Análise de Dados • Power BI • Visualização de Dados**
-
-### ☁️ Cloud, DevOps & Ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
-
-**AWS • Docker • Git • GitLab • Container Apps • Arquitetura Modular**
+  <img
