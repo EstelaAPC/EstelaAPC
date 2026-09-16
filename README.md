@@ -127,14 +127,6 @@ A solução organiza o acompanhamento das entregas e auxilia na gestão do proce
 
 **Tecnologias:** Python • Flask
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EstelaAPC&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstelaAPC&layout=compact&theme=transparent&hide_border=true"/>
-</p>
 
 ---
 
