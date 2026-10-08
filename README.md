@@ -7,9 +7,6 @@
   />
 </p>
 
-<h1 align="center">
-  Estela Argolo
-</h1>
 
 <p align="center">
   <strong>Software Developer • Full Stack • Artificial Intelligence</strong>
