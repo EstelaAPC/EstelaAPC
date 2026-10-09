@@ -11,25 +11,29 @@
   <strong>Software Developer • Full Stack • Artificial Intelligence</strong>
 </p>
 
+<p align="center">
+  Angular • TypeScript • C#/.NET • AI • Design Systems
+</p>
+
 <br>
 
 <p align="center">
   <a href="https://github.com/EstelaAPC">
-    <img 
+    <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/estela-argolo-paraiso-carvalho-788097130/">
-    <img 
+    <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
   &nbsp;
   <a href="https://estelaapc.github.io/portfolio/">
-    <img 
+    <img
       src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Portfólio"
     />
@@ -65,7 +69,7 @@ Meu objetivo é unir **engenharia de software, arquitetura e IA** para construir
 
 ### 💻 Software Development
 
-Desenvolvimento de aplicações e serviços utilizando tecnologias modernas de **Front-End, Back-End e APIs**.
+Desenvolvimento de aplicações e serviços utilizando tecnologias de **Front-End, Back-End e APIs**.
 
 </td>
 
@@ -93,7 +97,7 @@ Desenvolvimento de **componentes reutilizáveis, Web Components e bibliotecas co
 
 ### ☁️ Cloud & DevOps
 
-Conhecimentos em **AWS, Docker, Git, GitLab e pipelines de CI/CD**.
+Conhecimentos em **AWS, Docker, Git, GitLab e CI/CD**.
 
 </td>
 
@@ -117,7 +121,7 @@ Conhecimentos em **AWS, Docker, Git, GitLab e pipelines de CI/CD**.
   <img src="https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge" alt="REST API"/>
 </p>
 
-**C# • .NET • ASP.NET • Python • Flask • APIs REST • MVC • OOP**
+**MVC • OOP**
 
 ---
 
@@ -129,10 +133,7 @@ Conhecimentos em **AWS, Docker, Git, GitLab e pipelines de CI/CD**.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
-
-**Angular • TypeScript • JavaScript • HTML • SCSS • React**
 
 ---
 
@@ -145,7 +146,7 @@ Conhecimentos em **AWS, Docker, Git, GitLab e pipelines de CI/CD**.
   <img src="https://img.shields.io/badge/Shadow%20DOM-111827?style=for-the-badge" alt="Shadow DOM"/>
 </p>
 
-**LitElement • LitHTML • Custom Elements • Shadow DOM • Componentização • Design Tokens • Acessibilidade**
+**LitElement • LitHTML • Custom Elements • Design Tokens • Acessibilidade**
 
 ---
 
@@ -158,7 +159,7 @@ Conhecimentos em **AWS, Docker, Git, GitLab e pipelines de CI/CD**.
   <img src="https://img.shields.io/badge/Generative%20AI-9333EA?style=for-the-badge" alt="Generative AI"/>
 </p>
 
-**LLMs • AI Agents • MCP (Model Context Protocol) • Generative AI • Automação**
+**LLMs • AI Agents • MCP • Generative AI • Automação**
 
 ---
 
@@ -167,10 +168,9 @@ Conhecimentos em **AWS, Docker, Git, GitLab e pipelines de CI/CD**.
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-**SQL • Modelagem de Dados • Consultas • Bancos Relacionais • NoSQL**
+**SQL • Modelagem de Dados • Bancos Relacionais • NoSQL**
 
 ---
 
@@ -184,7 +184,7 @@ Conhecimentos em **AWS, Docker, Git, GitLab e pipelines de CI/CD**.
   <img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge" alt="CI/CD"/>
 </p>
 
-**AWS • Docker • Git • GitLab • CI/CD • Container Apps • Arquitetura Modular**
+**Cloud • Containers • Versionamento • Arquitetura Modular**
 
 ---
 
@@ -198,9 +198,9 @@ Conhecimentos em **AWS, Docker, Git, GitLab e pipelines de CI/CD**.
 
 Atuação no desenvolvimento e evolução do **Design System institucional**, contribuindo para a criação de componentes reutilizáveis e soluções para diferentes aplicações.
 
-**Principais tecnologias:**
+**Principais tecnologias**
 
-`Angular` `TypeScript` `Lit` `Web Components` `SCSS` `APIs`
+`Angular` `TypeScript` `Lit` `Web Components` `SCSS`
 
 ### O que faço
 
@@ -225,7 +225,7 @@ Atuação no desenvolvimento de sistemas corporativos utilizando **C#/.NET**, AP
 
 Participação no desenvolvimento de soluções para o ambiente industrial, incluindo integração com **SAP** e sistemas relacionados à operação.
 
-**Principais tecnologias:**
+**Principais tecnologias**
 
 `C#` `.NET` `ASP.NET MVC` `SQL Server` `MongoDB` `APIs REST` `Git`
 
