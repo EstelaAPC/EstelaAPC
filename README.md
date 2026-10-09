@@ -2,22 +2,23 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+a+Estela+Argolo+%F0%9F%91%8B;Software+Developer+%7C+Full+Stack;Angular+%7C+C%23%2F.NET+%7C+IA+%7C+Design+Systems;Construindo+solu%C3%A7%C3%B5es+com+tecnologia+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Olá%2C+eu+sou+a+Estela+Argolo+👋;Software+Developer+%7C+Full+Stack;Angular+%7C+C%23%2F.NET+%7C+IA+%7C+Design+Systems;Construindo+soluções+com+tecnologia+🚀"
     alt="Typing SVG"
   />
 </p>
-
 
 <p align="center">
   <strong>Software Developer • Full Stack • Artificial Intelligence</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/EstelaAPC">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/estela-argolo-paraiso-carvalho-788097130/">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://estelaapc.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20MEU%20PORTFÓLIO-8B5CF6?style=for-the-badge"/>
   </a>
 </p>
 
@@ -29,15 +30,13 @@
 
 Sou **Engenheira de Computação** com experiência profissional em **desenvolvimento de software**, atuando em diferentes frentes de tecnologia, incluindo **Front-End, Back-End, APIs, Design Systems, integração de sistemas e Inteligência Artificial**.
 
-Atualmente, atuo no **Banco Safra**, com foco em desenvolvimento e evolução de soluções para o ecossistema de **Design System**, utilizando tecnologias como **Angular, TypeScript, Lit, Web Components e arquitetura modular**.
+Atualmente, atuo no **Banco Safra**, com foco no desenvolvimento e evolução de soluções para o ecossistema de **Design System**, utilizando tecnologias como **Angular, TypeScript, Lit, Web Components e arquitetura modular**.
 
 Também venho ampliando minha atuação em **Inteligência Artificial**, explorando **LLMs, agentes de IA, MCP e automação de processos**.
 
 Meu objetivo é unir **engenharia de software, arquitetura e IA** para construir soluções escaláveis, reutilizáveis e eficientes.
 
 ---
-
-<!-- ======================= HIGHLIGHTS ======================= -->
 
 ## ⚡ Em destaque
 
@@ -47,7 +46,7 @@ Meu objetivo é unir **engenharia de software, arquitetura e IA** para construir
 
 ### 💻 Software Development
 
-Desenvolvimento de aplicações e serviços utilizando tecnologias modernas de Front-End e Back-End.
+Desenvolvimento de aplicações e serviços utilizando tecnologias modernas de **Front-End, Back-End e APIs**.
 
 </td>
 
@@ -55,7 +54,7 @@ Desenvolvimento de aplicações e serviços utilizando tecnologias modernas de F
 
 ### 🤖 Artificial Intelligence
 
-Exploração de LLMs, agentes de IA, MCP e automação aplicada ao desenvolvimento.
+Exploração de **LLMs, agentes de IA, MCP e automação** aplicada ao desenvolvimento de software.
 
 </td>
 </tr>
@@ -65,7 +64,7 @@ Exploração de LLMs, agentes de IA, MCP e automação aplicada ao desenvolvimen
 
 ### 🧩 Design Systems
 
-Desenvolvimento de componentes reutilizáveis, Web Components e bibliotecas compartilhadas.
+Desenvolvimento de **componentes reutilizáveis, Web Components e bibliotecas compartilhadas**.
 
 </td>
 
@@ -73,7 +72,7 @@ Desenvolvimento de componentes reutilizáveis, Web Components e bibliotecas comp
 
 ### ☁️ Cloud & DevOps
 
-Conhecimentos em AWS, Docker, Git, GitLab e pipelines de CI/CD.
+Conhecimentos em **AWS, Docker, Git, GitLab e pipelines de CI/CD**.
 
 </td>
 </tr>
@@ -122,7 +121,7 @@ Conhecimentos em AWS, Docker, Git, GitLab e pipelines de CI/CD.
   <img src="https://img.shields.io/badge/Shadow%20DOM-111827?style=for-the-badge"/>
 </p>
 
-**LitElement • LitHTML • Custom Elements • Shadow DOM • Componentização • Tokens • Acessibilidade**
+**LitElement • LitHTML • Custom Elements • Shadow DOM • Componentização • Design Tokens • Acessibilidade**
 
 ---
 
@@ -168,6 +167,7 @@ Conhecimentos em AWS, Docker, Git, GitLab e pipelines de CI/CD.
 # 💼 Experiência
 
 ### 🏦 Banco Safra
+
 **Software Development • TI Design**
 
 Atuação no desenvolvimento e evolução do **Design System institucional**, contribuindo para a criação de componentes reutilizáveis e soluções para diferentes aplicações.
